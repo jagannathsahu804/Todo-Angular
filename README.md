@@ -1,4 +1,4 @@
-# MyFirstProject
+# Todo Website
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+This todo app simply demonstrates Create, update and delete operations. The user can add a Todo, delete the todo and Read the todo using this website. A simple website i made while practicing angular
